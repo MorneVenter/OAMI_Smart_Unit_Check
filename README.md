@@ -8,5 +8,5 @@ Enter your password and username into the correct variables: <br>
  AND <br>
  `PASSWORD = "<YOUR PASSWORD>"`
 
-Run the following in the terminal:
-> `python3.7  check_units.py`
+Run the following in the terminal: <br>
+`python3.7  check_units.py`
